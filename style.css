@@ -1,0 +1,25 @@
+h1 {
+    font-size: 16px;
+
+}
+
+img {
+    width: 500px;
+
+}
+
+body { 
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+hr {
+    display: block;
+    height: .5px;
+    border: 0;
+    border-top: 1px dotted #ccc;
+    margin: 350px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    padding: 0px; 
+}
